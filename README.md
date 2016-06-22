@@ -4,7 +4,7 @@
 
 **What is this?** – I could not find a decent machine-readable(!) map of all transit authorities in Germany (_nb, the German [Verkehrsverbund](https://de.wikipedia.org/wiki/Verkehrsverbund) system is a rather unique beast, see [Pucher and Kurth 1995 for reference](http://www.sciencedirect.com/science/article/pii/0967070X9500022I)_)
 
-While Wikimedia Commons has a [pixel-based map](https://de.wikipedia.org/wiki/Datei:Karte_der_Verkehrsverb%C3%BCnde_und_Tarifverb%C3%BCnde_in_Deutschland.png), I wanted something GeoJSONy that can be used with Leaflet or something like that.
+While Wikimedia Commons has a [pixel-based map](https://commons.wikimedia.org/wiki/File:Karte_der_Verkehrsverbünde_und_Tarifverbände_in_Deutschland.png), I wanted something GeoJSONy that can be used with Leaflet or something like that.
 
 ## How was this made?
 
